@@ -1,2 +1,3 @@
 # graduation-project
 WI-FI Controlled drone 
+Drones, or unmanned aerial vehicles (UAVs), have revolutionized industries thru faraway manipulate competencies. Initially used in navy operations, drones now serve various functions like surveillance, firefighting, and filmmaking. Multirotor drones, including quadcopters, offer efficient vertical thrust. Wi-Fi-controlled drones make use of hardware layout and software integration, including flight controllers, Blynk structures, and Arduino IDE, enhancing control and capability. This comprehensive assessment explores the varieties of drones, aerodynamics, hardware design, software program usage, and the gigantic potential of Wi-Fi-controlled drones in various sectors.
